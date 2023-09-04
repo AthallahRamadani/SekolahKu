@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Sekolahku</string>
+    <string name="button_1">Button 1</string>
+    <string name="button_2">Button 2</string>
+    <string name="button_3">Button 3</string>
+    <string name="button_4">Button 4</string>
+    <string name="button_5">button 5</string>
+    <string name="simpan">simpan</string>
+    <string name="alamat">Alamat</string>
+    <string name="menggambar">menggambar</string>
+    <string name="menulis">Menulis</string>
+    <string name="tambah">tambah</string>
+    <string name="no_hp">No. HP</string>
+    <string name="error_data_not_found">Error Data Not Found</string>
+    <string-array name="planets">
+        <item>Merkurius</item>
+        <item>venus</item>
+        <item>bumi</item>
+        <item>mars</item>
+        <item>jupiter</item>
+        <item>saturnus</item>
+        <item>uranus</item>
+        <item>neptunus</item>
+    </string-array>
+
+    <string-array name="jenjang">
+        <item>TK</item>
+        <item>SD</item>
+        <item>SMP</item>
+        <item>SMA</item>
+        <item>Kuliah</item>
+    </string-array>
+
+</resources>
