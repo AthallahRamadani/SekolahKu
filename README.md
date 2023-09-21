@@ -2,6 +2,8 @@
 
 This is a simple school application project that utilizes SQLite Room to manage student data. This application allows you to add, modify, delete, and search for student data.
 
+Ini adalah proyek aplikasi sekolah sederhana yang menggunakan SQLite Room untuk mengelola data mahasiswa. Aplikasi ini memungkinkan Anda untuk menambahkan, mengubah, menghapus, dan mencari data mahasiswa.
+
 ## Tech Stack
 1. Kotlin
 2. Sqlite
