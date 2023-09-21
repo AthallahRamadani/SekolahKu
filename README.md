@@ -9,7 +9,7 @@ This is a simple school application project that utilizes SQLite Room to manage 
 ## Function
 1. Add Student Data: Click the "Add Student" button and fill in the student data form.
 2. Edit Student Data: Click on one of the student items in the list, then click "Edit" to modify their data.
-3. Delete Student Data: In the list of students, swipe the item to the right or left to delete it.
+3. Delete Student Data: Click on one of the student items in the list, then click "Delete" to delete their data.
 4. Student Search: Enter a search keyword (Name) into the search box at the top of the student list.
 
 ## Reference
